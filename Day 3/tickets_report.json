@@ -1,0 +1,26 @@
+[
+  {
+    "id": 101,
+    "title": "Login button unresponsive on mobile",
+    "category": "Bug",
+    "priority": "high",
+    "sla_hours": 4,
+    "status": "resolved"
+  },
+  {
+    "id": 102,
+    "title": "Add dark mode to dashboard",
+    "category": "Feature",
+    "priority": "medium",
+    "sla_hours": 168,
+    "status": "open"
+  },
+  {
+    "id": 103,
+    "title": "Typo in invoice footer",
+    "category": "Bug",
+    "priority": "low",
+    "sla_hours": 72,
+    "status": "resolved"
+  }
+]
