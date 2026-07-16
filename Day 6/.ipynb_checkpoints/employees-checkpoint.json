@@ -1,0 +1,32 @@
+[
+  {
+    "name":"Amit",
+    "age":25,
+    "department":"Engineering",
+    "salary":55000
+  },
+  {
+    "name":"Priya",
+    "age":30,
+    "department":"Marketing",
+    "salary":62000
+  },
+  {
+    "name":"Rahul",
+    "age":22,
+    "department":"Engineering",
+    "salary":48000
+  },
+  {
+    "name":"Sneha",
+    "age":28,
+    "department":"HR",
+    "salary":51000
+  },
+  {
+    "name":"Vikram",
+    "age":35,
+    "department":"Engineering",
+    "salary":71000
+  }
+]
